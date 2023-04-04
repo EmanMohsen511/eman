@@ -1,0 +1,9 @@
+header{
+    min-height: 100vh;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.712) , rgba(0, 0, 0, 0.712)) , url(../images/home.jpg);
+    background-size: cover;
+    background-position: center;
+}
+.navbar{
+    border-bottom: solid 4px #088BC2;
+}
